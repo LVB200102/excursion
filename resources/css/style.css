@@ -7,7 +7,7 @@
   color: White;
   font-size: 50px;
 }
-.link {
+a {
   color: Aquamarine;
   font-size: 16px;
 }
@@ -17,12 +17,7 @@
   font-weight:400;
   color:White;
 }
-h4 {
-  font-size: 21px;
-  color: gray;
-  font-family: Verdana;
-}
-#copyright {
+.copyright {
   color: gray;
   text-align: right;
   font-size: 24px;
@@ -31,8 +26,8 @@ h4 {
   text-align: center;
   font-size: 18px;
 }
-.description {
-  font-size: 21px;
-  color: gray;
+.description{
   font-family: Verdana;
+  font-size: 21px;
+  color: Gray;
 }
