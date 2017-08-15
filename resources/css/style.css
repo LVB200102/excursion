@@ -1,0 +1,33 @@
+*{
+  background-color: black;
+}
+#heading{
+  font-family: Verdana;
+  font-weight: normal;
+  color: White;
+  font-size: 50px;
+}
+.link{
+  color: Aquamarine;
+  font-size: 16px;
+}
+.headings{
+  font-family: Verdana;
+  font-size: 42px;
+  font-weight:400;
+  color:White;
+}
+h4{
+  font-size: 21px;
+  color: gray;
+  font-family: Verdana;
+}
+#copyright{
+  color: gray;
+  text-align: right;
+  font-size: 18px;
+}
+#heading, .link, .headings, h4, p{
+  text-align: center;
+  font-size: 18px;
+}
